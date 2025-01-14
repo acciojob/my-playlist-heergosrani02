@@ -28,5 +28,7 @@ a{
 }
 
 .player_two, p{
+	background-color: rgb(255, 255, 255);
+	border-radius: 4px;
 	padding: 0px 8px 0px;
 }
